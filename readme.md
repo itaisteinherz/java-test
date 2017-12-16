@@ -3,7 +3,7 @@
 > Java testing utility
 
 
-## Why
+## Features
 
 - Lints code using [CheckStyle](https://github.com/checkstyle/checkstyle).
 - Runs the tests.

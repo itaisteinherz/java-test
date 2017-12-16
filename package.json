@@ -23,7 +23,13 @@
 	"keywords": [
 		"cli-app",
 		"cli",
-		""
+		"java",
+		"linter",
+		"testing",
+		"checkstyle",
+		"code-quality",
+		"enforce",
+		"verify"
 	],
 	"dependencies": {
 		"chalk": "^2.3.0",
